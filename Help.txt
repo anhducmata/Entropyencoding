@@ -1,0 +1,19 @@
+--------------------Help-------------------------------------------
+-Detai 7 : Chuong trinh Thuc hien Ma hoa nguon Pho quat voi m = 2 -
+-------------------------------------------------------------------
+Yeu cau de chay chuong trinh : 
+	Moi truong Windows
+	Visual C#
+	.net framework 4.0 
+Huong Dan Su Dung : 
+	Buoc 1 : Nhap chieu dai cua nguon
+	Buoc 2 : Nhan Nut "Thuc Hien"
+	Buoc 3 : Xem ket qua o Bang ben duoi
+* Nang cao :
+	Nhan vao "Gioi thieu" de xem Gioi thieu ve chuong trinh
+	Ban co the click vao o ma ban muon xem tat ca cac gia tri
+	De hieu ro hon xem "Meo" ben trai Chuong trinh
+	Nhan nut "Export" de print Ket qua ra File EXCELL
+	Nhan "Refresh" De thuc hien lan giai ma ke tiep
+	Nhan Exit De Thoat.
+----->Thanks !
